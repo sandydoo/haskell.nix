@@ -7,7 +7,7 @@ let
             compilerNixName = "ghc8107";
         }
         else {
-            compilerNixName = "ghc884";
+            compilerNixName = "ghc8107";
         };
     latestVer = {
       "8.4" = "8.4.4";
